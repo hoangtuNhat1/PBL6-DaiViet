@@ -1,0 +1,17 @@
+aiofiles
+aiohttp
+aioredis
+alembic
+async-timeout
+databases
+fastapi
+fastapi-cli
+fastapi-mail
+flask
+httpx
+itsdangerous
+jinja2
+multidict
+starlette
+uvicorn
+werkzeug

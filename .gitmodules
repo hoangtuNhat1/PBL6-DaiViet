@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/hoangtuNhat1/DaiVietCharacter.git
